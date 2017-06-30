@@ -36,6 +36,6 @@ class Photo extends React.Component {
             </div>
         );
     }
-}
+} 
 
 ReactDOM.render(<App/>, document.getElementById('app'));
